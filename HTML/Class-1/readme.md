@@ -157,4 +157,3 @@ git is a open source, version control system to help us for store,share, manipul
 ex - gitlab,github etc.....
 
 repository - it means a folder of a project.
-
