@@ -10,10 +10,23 @@
  // console.log("false");
 //}
 
-let isChecked = 1;
-if (isChecked) {
-  console.log("true");
-} else {
-  console.log("false");
-}
+//let isChecked = 1;
+//if (isChecked) {
+ // console.log("true");
+//} enolse {
+ // console.log("false");
+//}
 
+//let isChecked = -1;
+//if (isChecked) {
+ // console.log("true");
+//} else {
+ // console.log("false");
+//}
+
+let isChecked = 2;
+if (isChecked) {
+ console.log("true");
+} else {
+ console.log("false");
+}
